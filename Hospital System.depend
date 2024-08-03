@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1722658686 source:d:\hospital system\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<ctime>
+
